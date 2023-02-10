@@ -5,7 +5,6 @@ In this project, I used React to create two pages: login and password recovery. 
 
 #### What was developed:
 
-- Create a new component called "Form" using the "create-react-app" function;
 - Responsive css;
 - React DOM Router using npm or yarn package manager.
 - Import the components: In your JavaScript file, import the React DOM Router components you need, such as <Router>, <Link>, and <Route>.
