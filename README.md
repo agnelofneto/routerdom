@@ -18,7 +18,7 @@ In this project, I used React to create two pages: login and password recovery. 
 <br />
 
 <h1 align="center">
-<img alt="Video form " title="gif" src="./src/img/formvideo.gif" />
+<img alt="Video router Dom " title="gif" src="./src/assets/routerdom.gif" />
 </h1>
 
 
